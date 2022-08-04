@@ -1,0 +1,113 @@
+.movments {
+    position: fixed;
+    bottom: 5%;
+    width: 90vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    user-select: none;
+  }
+
+.controls-panel {
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+}
+
+.select-arrows {
+    display: flex;
+    width: max-content;
+}
+
+.select-arrows__button {
+    font-size: 25px;
+    height: 45px;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 0;
+    background: #dde1e7;
+    color: #4b4b4b;
+    border: none;
+    border-radius: 15%;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+    cursor: none;
+}
+
+.select-arrows__button_state_used {
+    box-shadow: inset -5px -5px 9px rgba(255,255,255,0.45), inset 5px 5px 9px rgba(94,104,121,0.3);
+}
+
+.select-arrows__button:hover {
+    cursor: none;
+    box-shadow: inset -5px -5px 9px rgba(255,255,255,0.45), inset 5px 5px 9px rgba(94,104,121,0.3);
+}
+
+.select-arrows__button:active {
+    color: rgba(12, 105, 0, 0.75);
+    text-shadow: -5px -5px 9px rgba(35, 150, 0, 0.45), 5px 5px 9px rgba(27, 87, 0, 0.3);
+} 
+
+.arrows-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items:flex-start;
+    max-width: 25%;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+}
+
+.start-button-wrapper {
+    display: flex;
+    width: max-content;
+}
+
+.start-button {
+    font-size: 20px;
+    height: 45px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 0;
+    background: #dde1e7;
+    color: #4b4b4b;
+    border: none;
+    border-radius: 15%;
+    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+    cursor: none;
+}
+
+.start-button:hover {
+    cursor: none;
+    box-shadow: inset -5px -5px 9px rgba(255,255,255,0.45), inset 5px 5px 9px rgba(94,104,121,0.3);
+}
+
+.start-button:active {
+    color: rgba(12, 105, 0, 0.75);
+    text-shadow: -5px -5px 9px rgba(35, 150, 0, 0.45), 5px 5px 9px rgba(27, 87, 0, 0.3);
+} 
+
+@media screen and (max-width: 750px) {
+    .select-arrows__button {
+        font-size: 20px;
+        height: 25px;
+        width: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 5px;
+        padding: 0;
+        background: #dde1e7;
+        color: #4b4b4b;
+        border: none;
+        border-radius: 15%;
+        box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+    }
+}

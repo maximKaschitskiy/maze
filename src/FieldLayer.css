@@ -1,0 +1,13 @@
+.field-grid {
+    padding: 0;
+    margin: 0;
+    top: 10%;
+    list-style: none;
+    display: grid;
+    color: #fff;
+    width: max-content;
+    height: max-content;
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 1;
+  }
