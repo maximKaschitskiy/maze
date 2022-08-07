@@ -1,6 +1,6 @@
 
 
-## task for Amakids
+## task for mindbox
 
 ### Задание
 
