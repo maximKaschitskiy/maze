@@ -2,8 +2,8 @@ import React from "react";
 
 import "./Popup.css";
 
-import succsessIcon from "./images/success.svg";
-import failIcon from "./images/fail.svg";
+import succsessIcon from "../images/success.svg";
+import failIcon from "../images/fail.svg";
 
 function Popup({ isOpen, onClose, level }) {
 

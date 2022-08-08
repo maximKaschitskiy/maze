@@ -9,7 +9,7 @@ import PlayerLayer from "./PlayerLayer";
 import Movments from "./Movments";
 import Cursor from "./Cursor";
 
-import generateLevel from "./utils/generateLevel";
+import generateLevel from "../utils/generateLevel";
 
 function App() {
 

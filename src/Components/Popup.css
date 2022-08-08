@@ -77,7 +77,7 @@
     transition: opacity 0s, opacity 0.15s linear;
     margin-bottom: calc(-1.57% + 20px);
     position: relative;
-    background-image: url(./images/Close\ Icon.svg);
+    background-image: url(../images/Close\ Icon.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
