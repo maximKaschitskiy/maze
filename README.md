@@ -18,6 +18,8 @@
 
 https://user-images.githubusercontent.com/67905360/182848652-14901554-1ec7-4f97-846c-5a642a6f3182.mp4
 
+View on GH-pages: https://maximkaschitskiy.github.io/amakids-test/
+
 React application.
 
 How to run:
