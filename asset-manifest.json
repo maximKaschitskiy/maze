@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/amakids-test/static/css/main.df757228.css",
-    "main.js": "/amakids-test/static/js/main.4b02b189.js",
-    "static/js/787.069831c8.chunk.js": "/amakids-test/static/js/787.069831c8.chunk.js",
-    "index.html": "/amakids-test/index.html",
-    "static/media/fail.svg": "/amakids-test/static/media/fail.1c16ea5a315922d5bcda295b4a70729b.svg",
-    "static/media/success.svg": "/amakids-test/static/media/success.11b7306aa986974429fc7a2127075fa4.svg",
-    "static/media/Close Icon.svg": "/amakids-test/static/media/Close Icon.dac22d3e7f8c8059add2.svg",
-    "main.df757228.css.map": "/amakids-test/static/css/main.df757228.css.map",
-    "main.4b02b189.js.map": "/amakids-test/static/js/main.4b02b189.js.map",
-    "787.069831c8.chunk.js.map": "/amakids-test/static/js/787.069831c8.chunk.js.map"
+    "main.css": "/maze/static/css/main.c8c6b723.css",
+    "main.js": "/maze/static/js/main.73c73b1a.js",
+    "static/js/787.8edad55f.chunk.js": "/maze/static/js/787.8edad55f.chunk.js",
+    "index.html": "/maze/index.html",
+    "static/media/fail.svg": "/maze/static/media/fail.1c16ea5a315922d5bcda295b4a70729b.svg",
+    "static/media/success.svg": "/maze/static/media/success.11b7306aa986974429fc7a2127075fa4.svg",
+    "static/media/Close Icon.svg": "/maze/static/media/Close Icon.dac22d3e7f8c8059add2.svg",
+    "main.c8c6b723.css.map": "/maze/static/css/main.c8c6b723.css.map",
+    "main.73c73b1a.js.map": "/maze/static/js/main.73c73b1a.js.map",
+    "787.8edad55f.chunk.js.map": "/maze/static/js/787.8edad55f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df757228.css",
-    "static/js/main.4b02b189.js"
+    "static/css/main.c8c6b723.css",
+    "static/js/main.73c73b1a.js"
   ]
 }
