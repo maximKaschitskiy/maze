@@ -2,7 +2,7 @@
 
 ### Release:
 
-https://maximkaschitskiy.github.io/amakids-test/
+https://maximkaschitskiy.github.io/maze/
 
 ### Description:
 
